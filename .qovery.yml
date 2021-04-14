@@ -1,0 +1,11 @@
+---
+application:
+  name: "scratch-api-read-write-cloud-variables-with-node-js"
+  project: "scratch-tools"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-scratch-api-read-write-cloud-variables-with-node-js"
+  routes:
+  - application_name: "scratch-api-read-write-cloud-variables-with-node-js"
+    paths:
+    - "/*"
